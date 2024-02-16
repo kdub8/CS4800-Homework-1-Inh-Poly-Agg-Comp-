@@ -1,4 +1,15 @@
+/**
+ * Driver class to demonstrate the use of different types of ships.
+ */
+/** @author Kevin */
+
 public class Driver {
+
+    /**
+     * Main method to demonstrate the use of different types of ships.
+     *
+     * @param args The command-line arguments
+     */
     public static void main(String args[]) {
         Ship ships[] = new Ship[3];
 

@@ -1,5 +1,15 @@
+/**
+ * Driver class to demonstrate the use of different types of employees.
+ */
 
+/** @author Kevin */
 public class Driver {
+        /**
+         * Main method to create instances of various types of employees and demonstrate
+         * their functionality.
+         * 
+         * @param args command line arguments (not used)
+         */
         public static void main(String args[]) {
 
                 SalariedEmployee sal_emp = new SalariedEmployee();
